@@ -16,4 +16,3 @@ Creative problem solver and system designer collaborating with AI to bring innov
 ## 📫 Contact
 
 - GitHub: [vmanoilov](https://github.com/vmanoilov)
-- Email: [your.email@example.com](mailto:your.email@example.com)
