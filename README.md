@@ -7,32 +7,61 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Ask%20Me-informational?logo=telegram)](#)
 [![Feelprint](https://img.shields.io/badge/Feelprint-Private-red)](#)
 
-## 🚀 About Me
+---
+
+## 🚀 Featured Project: zenrube-mcp
+
+[zenrube-mcp](https://github.com/vmanoilov/zenrube-mcp) — Zen-inspired, multi-model AI consensus orchestration built natively for the Rube automation platform.
+
+[![Repo Stars](https://img.shields.io/github/stars/vmanoilov/zenrube-mcp?style=social)](https://github.com/vmanoilov/zenrube-mcp)
+[![Repo License](https://img.shields.io/github/license/vmanoilov/zenrube-mcp)](https://github.com/vmanoilov/zenrube-mcp/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/vmanoilov/zenrube-mcp)](https://github.com/vmanoilov/zenrube-mcp/commits/main)
+
+- Orchestrates multiple AI experts to reduce bias and reach a synthesized, confident recommendation
+- Adapts core patterns from Zen MCP to Rube’s cloud automation
+- Integrates with Rube’s 500+ app connectors to make consensus actionable
+
+Quick glance:
+
+```python
+from zenrube import zen_consensus
+
+result = zen_consensus(
+    question="Your complex decision here",
+    models=["expert_1", "expert_2", "expert_3"],
+    synthesis_style="balanced"
+)
+
+print(result["consensus"])
+```
+
+Why it matters:
+- Diverse perspectives → better decisions
+- Structured synthesis → clear, actionable outcomes
+- Built for automation-first workflows
+
+Credits: Inspired by Zen MCP (BeehiveInnovations). Platform by Rube/Composio.
+
+---
+
+## 🧠 About Me
 
 Creative problem solver and system designer collaborating with AI to bring ideas to life.  
 I define the logic, design the flow — AI writes the code. Together, we build what neither could solo.  
 Human insight × machine precision → volatile innovation with purpose.
 
-## 🧩 Key Project
+Focus areas:
+- AI orchestration and tool-driven agents
+- Security-aware systems and automation
+- Prototyping GauntletFuse — a work‑in‑progress multi‑agent framework exploring cybersecurity × AI by fusing red teaming, structured reasoning, and creative synthesis to test, evolve, and stress‑map large language models
 
-### [S3Scanner WebApp](https://github.com/vmanoilov/s3scanner-webapp) → Buckets. Exposed.
-
-[![Repo Stars](https://img.shields.io/github/stars/vmanoilov/s3scanner-webapp?style=social)](https://github.com/vmanoilov/s3scanner-webapp)
-[![Repo License](https://img.shields.io/github/license/vmanoilov/s3scanner-webapp)](https://github.com/vmanoilov/s3scanner-webapp/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/vmanoilov/s3scanner-webapp)](https://github.com/vmanoilov/s3scanner-webapp/commits/main)
-
-Web interface for scanning open S3 buckets — sleek, fast, and private by design.  
-Feed in wordlists, map possible buckets, auto-browse accessible files in an Explorer-style UI.  
-No API keys. No noise. Just signal.
-
-## 🔧 Selected Projects
-
-- **Atlantr-gui** → Python-based GUI app  
-- **kali-scripts** → Handy tools for Kali Linux  
-- **Sn1per** → Automated pentest recon scanner (forked)  
-- **Keychain-Dumper** → iOS keychain analyzer  
+---
 
 ## 📫 Contact
 
 - GitHub → [vmanoilov](https://github.com/vmanoilov)  
-- Telegram / Discord → ask if you know where to look  
+- Telegram / Discord → ask if you know where to look
+
+---
+
+“Many Models. One Mind.”
