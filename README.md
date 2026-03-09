@@ -9,38 +9,37 @@
 
 ---
 
-## 🚀 Featured Project: zenrube-mcp
+## 🚀 Featured Project: agency-agents-codex
 
-[zenrube-mcp](https://github.com/vmanoilov/zenrube-mcp) — Zen-inspired, multi-model AI consensus orchestration built natively for the Rube automation platform.
+[agency-agents-codex](https://github.com/vmanoilov/agency-agents-codex) — A massive roster of 61 highly specialized AI agent personalities adapted for seamless global integration inside your Codex agent environment.
 
-[![Repo Stars](https://img.shields.io/github/stars/vmanoilov/zenrube-mcp?style=social)](https://github.com/vmanoilov/zenrube-mcp)
-[![Repo License](https://img.shields.io/github/license/vmanoilov/zenrube-mcp)](https://github.com/vmanoilov/zenrube-mcp/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/vmanoilov/zenrube-mcp)](https://github.com/vmanoilov/zenrube-mcp/commits/main)
+[![Repo Stars](https://img.shields.io/github/stars/vmanoilov/agency-agents-codex?style=social)](https://github.com/vmanoilov/agency-agents-codex)
+[![Repo License](https://img.shields.io/github/license/vmanoilov/agency-agents-codex)](https://github.com/vmanoilov/agency-agents-codex/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/vmanoilov/agency-agents-codex)](https://github.com/vmanoilov/agency-agents-codex/commits/main)
 
-- Orchestrates multiple AI experts to reduce bias and reach a synthesized, confident recommendation
-- Adapts core patterns from Zen MCP to Rube’s cloud automation
-- Integrates with Rube’s 500+ app connectors to make consensus actionable
+- 🎯 **Specialized**: Deep expertise in their domain across engineering, product, and design.
+- 🧠 **Personality-Driven**: Unique voice, communication style, and workflow adherence.
+- ⚡ **Immediate Codex Integration**: Automatically deploys globally inside your local `.codex/agents/` configurations!
 
 Quick glance:
 
-```python
-from zenrube import zen_consensus
+```bash
+# Step 1: Clone the repository 
+gh repo clone vmanoilov/agency-agents-codex
 
-result = zen_consensus(
-    question="Your complex decision here",
-    models=["expert_1", "expert_2", "expert_3"],
-    synthesis_style="balanced"
-)
+# Step 2: Push 61 agents natively into Codex system directories 
+./scripts/install.sh --tool codex
+```
 
-print(result["consensus"])
+```
+> "Use the agency-frontend-developer skill to review this React component..."
 ```
 
 Why it matters:
-- Diverse perspectives → better decisions
-- Structured synthesis → clear, actionable outcomes
-- Built for automation-first workflows
+- A full suite of engineering, marketing, and design talent instantly available to your terminal workflow.
+- Modular, highly organized agent designs based on successful Reddit prompt architecture.
 
-Credits: Inspired by Zen MCP (BeehiveInnovations). Platform by Rube/Composio.
+Credits: A deep appreciation and fork of the brilliant [agency-agents](https://github.com/msitarzewski/agency-agents) project built by [@msitarzewski](https://github.com/msitarzewski).
 
 ---
 
